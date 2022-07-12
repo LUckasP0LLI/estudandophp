@@ -1,0 +1,11 @@
+Atributos = Caracteristicas;
+metodos = funçoes;
+
+
+clonar objeto = "new + Nome Clase";
+
+
+
+
+||-> ou  && ->e
+if(!)= not
